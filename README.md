@@ -54,8 +54,8 @@ This project demonstrates a modern full-stack architecture with React, Node.js, 
 
 ###Clone the repository
 
-git clone https://github.com/yourusername/mock-cart.git
-cd mock-cart
+git clone https://github.com/PMatang/fake_-store_ecom_web_app
+cd fake_-store_ecom_web_app
 
 ###Install dependencies
 # backend
@@ -69,7 +69,7 @@ npm install
 ###Environment variables
 Create a .env file inside /backend and add:
 
-MONGO_URI=mongodb+srv://your-connection-string
+MONGO_URI=mongodb://localhost:27017/mock_ecom_cart or your_mongodb_atlas_uri
 PORT=5000
 
 ###Run the development servers
@@ -107,3 +107,11 @@ WebApp Preview:
 <img width="1883" height="864" alt="Screenshot 2025-11-07 225142" src="https://github.com/user-attachments/assets/986762e0-11eb-433d-9c79-9b6c0d257a69" />
 <img width="1870" height="866" alt="Screenshot 2025-11-07 225620" src="https://github.com/user-attachments/assets/3a0e442d-b015-4561-837b-eaca8c5ee289" />
 <img width="1883" height="865" alt="Screenshot 2025-11-07 225632" src="https://github.com/user-attachments/assets/a6c4263e-d3e5-44f7-b18b-25cc69fcbbcf" />
+<img width="1762" height="962" alt="image" src="https://github.com/user-attachments/assets/b99d6f8c-2c5f-4d9d-8453-aaa3c32a1fdf" />
+<img width="1767" height="998" alt="image" src="https://github.com/user-attachments/assets/2c3a641a-0821-4193-a1a4-ff16aab425da" />
+<img width="1757" height="994" alt="image" src="https://github.com/user-attachments/assets/53a83f79-6039-415b-ae93-9bb7eaf9ffd0" />
+
+
+
+
+Youtube Demo Link:
