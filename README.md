@@ -102,3 +102,8 @@ Vibe Commerce — Mock Cart is a modern full-stack e-commerce web application bu
 The frontend, designed with a clean, elegant, and responsive light theme, allows users to browse items in a grid view, add or remove products from the cart, view totals in real time, and simulate a checkout with name and email inputs. Once an order is placed, the system generates a mock receipt showing the order ID, timestamp, product list, and total cost.
 
 This project demonstrates strong integration between frontend and backend systems, focusing on modular architecture, smooth UI/UX, and dynamic state management. It also highlights best practices in API design, data handling, and currency formatting. Vibe Commerce serves as a perfect demonstration of full-stack development skills, showcasing both technical depth and attention to user experience.
+
+WebApp Preview:
+<img width="1883" height="864" alt="Screenshot 2025-11-07 225142" src="https://github.com/user-attachments/assets/986762e0-11eb-433d-9c79-9b6c0d257a69" />
+<img width="1870" height="866" alt="Screenshot 2025-11-07 225620" src="https://github.com/user-attachments/assets/3a0e442d-b015-4561-837b-eaca8c5ee289" />
+<img width="1883" height="865" alt="Screenshot 2025-11-07 225632" src="https://github.com/user-attachments/assets/a6c4263e-d3e5-44f7-b18b-25cc69fcbbcf" />
