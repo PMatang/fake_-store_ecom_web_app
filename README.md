@@ -69,7 +69,7 @@ npm install
 ###Environment variables
 Create a .env file inside /backend and add:
 
-MONGO_URI=mongodb://localhost:27017/mock_ecom_cart or your_mongodb_atlas_uri
+MONGODB_URI=mongodb://localhost:27017/mock_ecom_cart or your_mongodb_atlas_uri
 PORT=5000
 
 ###Run the development servers
